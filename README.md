@@ -2,8 +2,7 @@
 - 👀 I’m interested in games and how to make them
 - 🌱 I’m currently expanding my knowledge about blueprints in Unreal and C# with some dabblings in Unity
 - 💞️ I’m looking to collaborate on building my dev skills
-- 📫 How to reach me: hairymergames@gmail.com at first
-  - then if it's related to the company I work for we can redirect from there
+- 📫 How to reach me: matty.davis@deptagency.com
 
 <!---
 matty-davis/matty-davis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
